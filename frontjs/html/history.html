@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../js/history.js" defer></script>
+    <title>History</title>
+  </head>
+  <body>
+    <header>
+      <div class="store">
+        <a href="./index.html" class="logo">Suite Store</a>
+      </div>
+      <div id="others">
+        <a href="./products.html">Products</a>
+        <a href="./categories.html">Categories</a>
+        <a href="./history.html">History</a>
+      </div>
+  </header>
+  <div id="side-2-history">
+    <table id="historyTable">
+      <tr>
+        <th>
+          <b>Code</b>
+        </th>
+        <th>
+          <b> Tax</b>
+        </th>
+        <th>
+          <b> Total</b>
+        </th>
+      </tr>
+        <tr>
+          <td>
+            001
+          </td>
+          <td>
+            $2.00
+          </td>
+          <td>
+            $20.00
+          </td>
+          <td class="button-history">
+            <input onclick="openModal()" type="submit" value="View" class="finish">
+          </tr>
+              <div id="modal-container" class="modal-container">
+                  <div id="purchaseDetails" class="modal">
+                    <button onclick="closeModal()" class="close" id="close">x</button>
+                  </div>
+              </div>   
+          </td>
+        </tr>
+    </table>
+  </div>
+  </body>
+</html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../js/index.js" defer></script>
+    <title>Desafio Home</title>
+</head>
+<body>
+    <header>
+        <div class="store">
+          <a href="./index.html" class="logo">Suite Store</a>
+        </div>
+        <div id="others">
+          <a href="./products.html">Products</a>
+          <a href="./categories.html">Categories</a>
+          <a href="./history.html">History</a>
+        </div>
+    </header>
+    <main>
+        <div id="side-1">
+            <div class="first-value"> 
+                <select class="product" title="product" name="productSelect" id="productSelect">
+                    <option id="product" selected hidden>
+                      Select product
+                    </option>
+                  </select>
+            </div>
+            <div class="other-value">
+                <input type="number" placeholder="Amount (only integer value)" id="amount" oninput="this.value = this.value.replace(/[^0-9-]/g, ''); this.value = this.value.replace(/(\..*)\-/g, '$1');">
+                <input type="text" placeholder="Tax (%)" id="tax" disabled>
+                <span id="taxLabel"></span>
+                <input type="text" placeholder="Price ($)" id="price" disabled>
+            </div>
+            <button class="add" id="addToCartButton" >Add Product to Cart</button>
+        </div>
+        <div class="vl"></div>
+        <div id="side-2">
+            <table id="table">
+             <tr>
+                <th>Product</th>
+                <th>Price</th>
+                <th>Amount</th>
+                <th>Total</th>
+                <th>Actions</th>
+            </tr>
+            <tr>
+                <td>Rice</td>
+                <td>$2.00</td>
+                <td>2</td>
+                <td>$4.00</td>
+                <td><button onclick = "deleteProduct()" class="cancel">Delete</button></td>
+            </tr>
+            <tr>
+                <td>Corn</td>
+                <td>$6.00</td>
+                <td>3</td>
+                <td>$18.00</td>
+                <td><button onclick = "deleteProduct()" class="cancel">Delete</button></td>
+            </tr>
+            <tr class="last">
+                <td>Potato</td>
+                <td>$0.50</td>
+                <td>21</td>
+                <td>$10.50</td>
+                <td><button onclick = "deleteProduct()" class="cancel">Delete</button></td>
+            </tr>
+            <div class="items-result">
+                <div class="final-result2" id="taxPrice">
+                    <p><b>Tax:</b></p>
+                    <p>$6.30</p>
+                </div>
+                <div class="final-result" id="total">
+                    <p><b>Total:</b></p>
+                    <p>$32.50</p>
+                </div>
+            </div>
+            <div id="buttons-cart">
+                <input onclick="cancelPurchase()" type="submit" value="Cancel" class="cancel">
+                <input id="finishButton" type="submit" value="Finish" class="finish">
+                <div id="modal-container" class="modal-container">
+                    <div class="modal">
+                        <button class="close" id="close">x</button>
+                        <h1>Details</h1>
+                        <a href="./history.html" class="continue">Continue</a>
+                    </div>
+                </div>   
+            </div>
+        </div>
+    </main>
+</body>
+</html>

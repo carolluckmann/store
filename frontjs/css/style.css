@@ -1,0 +1,288 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+
+header{
+    display: flex;
+    position: sticky;
+    padding: 0;
+    width: 100%;
+    gap: 1%;
+    background-color: rgb(87, 87, 216);
+    align-items: center;
+}
+
+.others {
+    border: 1px solid white;
+    display: flex;
+    align-items: end;
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+header a{
+    color: #ffffff;
+    text-decoration:solid;
+    display: inline-block;
+    padding: 20px;
+    transition: .5s;
+    font-size: normal;
+    background-color: rgb(87, 87, 217);
+}
+
+a:hover{
+    color: #ca9df5;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 87vh;
+    width: 100%;
+}
+
+#side-2{
+    grid-area: 50%;
+    margin: 5%;
+}
+
+th,
+td {
+    padding: 10px;
+    border-right: solid 1px;
+}
+
+tr{
+    color: gray;
+    border-bottom: 1px solid;
+}
+
+#side-1{
+    padding: 30px;
+    margin-top: 2%;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    color: black;
+}
+
+.first-value,
+.first-value input {
+    width: 100%;
+    
+}
+
+.other-value {
+    display: flex;
+    flex-direction: row;
+    width: 102.5%;
+}
+
+.other-value input {
+    margin-right: 2%;
+    width: 100%;
+    height: 10%;
+}
+
+.add {
+    cursor: pointer;
+    width: 100.5%;
+    background-color: #5757d8;
+    border: 0;
+    border-radius: 3px;
+    margin-left: 1%;
+    margin-top: 1%;
+    padding: 2px !important;
+    height: 3%;
+    color: #ffffff;
+    transition: .5s;
+}
+
+.add:hover{
+    background-color: #7657e7;
+}
+
+.first-value,
+.other-value {
+    padding: 1%;
+}
+
+.finish{
+    width: 100%;
+    background-color: #5757d8;
+    border: 0;
+    border-radius: 3px;
+    margin-top: 10%;
+    transition: .5s;
+    padding: 5px !important;
+    cursor: pointer;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.finish:hover{
+    color: #ffffff;
+    background-color: #7657e7;
+}
+
+.cancel{
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #d8d8e6;
+    border: 0;
+    transition: .5s;
+    border-radius: 3px;
+    margin-top: 1%;
+    padding: 5px !important;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.cancel:hover{
+    color: #ffffff;
+    background-color: #a3a0a5;
+}
+
+#buttons-cart{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    position: absolute;
+    bottom: 2%;
+    gap: 10%;
+    transition: .5s;
+    right: 1%;
+    width: 20%;
+}
+
+#taxPrice{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    position: fixed;
+    align-items: end;
+    bottom: 9%;
+    right: 17.5%;
+}
+#total {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+    position: fixed;
+    bottom: 6%;
+    right: 16.4%;
+}
+
+#side-2-history{
+    display: flex;
+    padding: 1%;
+    width: 98%;
+    margin-right: 10%;
+}
+
+.button-history{
+    border-right: none;
+    border-bottom: none;
+}
+
+.button-category{
+    border-right: none;
+}
+
+.vl {
+    border-left: 1px solid #050505;
+    height: 80%;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+  }
+
+select{
+    margin-right: 2%;
+}
+
+.last{
+    border-bottom: none;
+}
+.category{
+    cursor: pointer;
+    width: 60%;
+    height: 110%;
+    color: gray;
+}
+
+.product{
+    cursor: pointer;
+    width: 100.5%;
+    height: 110%;
+    color: gray;
+}
+.modal-container{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #0000004b;
+    z-index: 999;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+
+.modal{
+    width: 60%;
+    min-width:400px;
+    min-height: 200px;
+    background-color: #ffffff;
+    backdrop-filter: blur(40px);
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.close{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    width: 20px;
+    height: 20px;
+    border: none;
+    background-color: #ffffff00;
+    color: #5757d8;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+@keyframes animate-modal {
+    from{
+        opacity: 0;
+        transform: translate3d(0, -20px, 0);
+    }
+
+    to{
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+.modal-container.show{
+    display: flex;
+}
+
+.show .modal{
+    animation: animate-modal 0.5s;
+}
+

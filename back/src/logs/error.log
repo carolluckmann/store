@@ -1,0 +1,373 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 11 11:38:51.142243 2025] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/8.1.0 configured -- resuming normal operations
+[Tue Mar 11 11:38:51.142446 2025] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 11 11:39:17.821421 2025] [php:notice] [pid 19] [client 172.18.0.1:43338] Sou um log
+[Tue Mar 11 11:53:03.586109 2025] [php:notice] [pid 21] [client 172.18.0.1:35462] Sou um log
+[Tue Mar 11 11:53:04.097602 2025] [php:notice] [pid 21] [client 172.18.0.1:35462] Sou um log
+[Tue Mar 11 11:53:04.466272 2025] [php:notice] [pid 21] [client 172.18.0.1:35462] Sou um log
+[Tue Mar 11 11:53:41.530314 2025] [php:notice] [pid 20] [client 172.18.0.1:46714] Sou um log
+[Tue Mar 11 11:53:41.782218 2025] [php:notice] [pid 20] [client 172.18.0.1:46714] Sou um log
+[Tue Mar 11 11:53:42.000258 2025] [php:notice] [pid 20] [client 172.18.0.1:46714] Sou um log
+[Tue Mar 11 11:54:49.027743 2025] [php:notice] [pid 19] [client 172.18.0.1:53164] Sou um log
+[Tue Mar 11 11:54:49.212456 2025] [php:notice] [pid 19] [client 172.18.0.1:53164] Sou um log
+[Tue Mar 11 11:54:49.485091 2025] [php:notice] [pid 19] [client 172.18.0.1:53164] Sou um log
+[Tue Mar 11 11:54:58.638250 2025] [php:notice] [pid 18] [client 172.18.0.1:53176] Sou um log
+[Tue Mar 11 12:14:03.602468 2025] [php:notice] [pid 21] [client 172.18.0.1:44002] Sou um log
+[Tue Mar 11 14:18:23.421213 2025] [php:notice] [pid 19] [client 172.18.0.1:59946] Sou um log
+[Tue Mar 11 14:18:23.587058 2025] [php:notice] [pid 19] [client 172.18.0.1:59946] Sou um log
+[Tue Mar 11 14:27:43.395639 2025] [php:notice] [pid 22] [client 172.18.0.1:56088] Sou um log
+[Tue Mar 11 14:27:44.315014 2025] [php:notice] [pid 22] [client 172.18.0.1:56088] Sou um log
+[Tue Mar 11 14:27:47.485683 2025] [php:notice] [pid 22] [client 172.18.0.1:56088] Sou um log
+[Tue Mar 11 14:27:47.641984 2025] [php:notice] [pid 22] [client 172.18.0.1:56088] Sou um log
+[Tue Mar 11 14:27:47.770551 2025] [php:notice] [pid 22] [client 172.18.0.1:56088] Sou um log
+[Tue Mar 11 14:28:03.130270 2025] [php:notice] [pid 21] [client 172.18.0.1:56094] Sou um log
+[Tue Mar 11 14:30:14.781513 2025] [php:notice] [pid 23] [client 172.18.0.1:41938] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:30:27.474323 2025] [php:notice] [pid 19] [client 172.18.0.1:54414] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:30:53.021179 2025] [php:notice] [pid 18] [client 172.18.0.1:40382] Sou um log
+[Tue Mar 11 14:30:53.169461 2025] [php:notice] [pid 22] [client 172.18.0.1:40400] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:30:54.308386 2025] [php:notice] [pid 18] [client 172.18.0.1:40382] Sou um log
+[Tue Mar 11 14:30:54.456800 2025] [php:notice] [pid 22] [client 172.18.0.1:40400] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:30:55.380670 2025] [php:notice] [pid 18] [client 172.18.0.1:40382] Sou um log
+[Tue Mar 11 14:30:55.567758 2025] [php:notice] [pid 22] [client 172.18.0.1:40400] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:31:45.135747 2025] [php:notice] [pid 20] [client 172.18.0.1:46138] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:31:45.294301 2025] [php:notice] [pid 20] [client 172.18.0.1:46138] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:52:57.349917 2025] [php:notice] [pid 23] [client 172.18.0.1:39102] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:52:57.505280 2025] [php:notice] [pid 23] [client 172.18.0.1:39102] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:52:57.659196 2025] [php:notice] [pid 23] [client 172.18.0.1:39102] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:54:48.109751 2025] [php:notice] [pid 19] [client 172.18.0.1:57132] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:54:52.512387 2025] [php:notice] [pid 19] [client 172.18.0.1:57132] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:54:55.441096 2025] [php:notice] [pid 19] [client 172.18.0.1:57132] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:54:57.034493 2025] [php:notice] [pid 19] [client 172.18.0.1:57132] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:54:58.221368 2025] [php:notice] [pid 19] [client 172.18.0.1:57132] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:54:58.378206 2025] [php:notice] [pid 19] [client 172.18.0.1:57132] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:56:22.738442 2025] [php:notice] [pid 24] [client 172.18.0.1:35486] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:56:22.893963 2025] [php:notice] [pid 24] [client 172.18.0.1:35486] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:56:23.046166 2025] [php:notice] [pid 24] [client 172.18.0.1:35486] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:56:23.756775 2025] [php:notice] [pid 24] [client 172.18.0.1:35486] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:57:08.069201 2025] [php:notice] [pid 18] [client 172.18.0.1:48396] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:57:30.464338 2025] [php:notice] [pid 22] [client 172.18.0.1:52910] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:57:32.905643 2025] [php:notice] [pid 22] [client 172.18.0.1:52910] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:57:48.908462 2025] [php:notice] [pid 21] [client 172.18.0.1:53192] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:57:50.802342 2025] [php:notice] [pid 21] [client 172.18.0.1:53192] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:01.311681 2025] [php:notice] [pid 20] [client 172.18.0.1:49416] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:07.725728 2025] [php:notice] [pid 23] [client 172.18.0.1:60714] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:08.976586 2025] [php:notice] [pid 23] [client 172.18.0.1:60714] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:10.558891 2025] [php:notice] [pid 23] [client 172.18.0.1:60714] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:52.668552 2025] [php:notice] [pid 19] [client 172.18.0.1:47622] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:56.065856 2025] [php:notice] [pid 19] [client 172.18.0.1:47622] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:58:58.334790 2025] [php:notice] [pid 19] [client 172.18.0.1:47622] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:11.494458 2025] [php:notice] [pid 24] [client 172.18.0.1:36328] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:16.639260 2025] [php:notice] [pid 18] [client 172.18.0.1:39164] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:18.935955 2025] [php:notice] [pid 18] [client 172.18.0.1:39164] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:21.883943 2025] [php:notice] [pid 18] [client 172.18.0.1:39164] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:32.213281 2025] [php:notice] [pid 22] [client 172.18.0.1:37178] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:34.441347 2025] [php:notice] [pid 22] [client 172.18.0.1:37178] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:42.411404 2025] [php:notice] [pid 21] [client 172.18.0.1:32998] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:48.162630 2025] [php:notice] [pid 20] [client 172.18.0.1:57428] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 14:59:51.568072 2025] [php:notice] [pid 20] [client 172.18.0.1:57428] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:00:00.814523 2025] [php:notice] [pid 23] [client 172.18.0.1:51610] Sou um log
+[Tue Mar 11 15:00:00.970450 2025] [php:notice] [pid 19] [client 172.18.0.1:51626] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:00:01.142084 2025] [php:notice] [pid 19] [client 172.18.0.1:51626] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:00:01.323007 2025] [php:notice] [pid 19] [client 172.18.0.1:51626] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:51.703769 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:51.861605 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:52.026301 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:52.713995 2025] [php:notice] [pid 22] [client 172.18.0.1:52796] Sou um log
+[Tue Mar 11 15:59:52.868492 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:54.800478 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:55.280124 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:55.462446 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 15:59:55.673248 2025] [php:notice] [pid 18] [client 172.18.0.1:52780] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:00:45.289634 2025] [php:notice] [pid 20] [client 172.18.0.1:45764] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:02:58.696324 2025] [php:notice] [pid 23] [client 172.18.0.1:56332] Sou um log
+[Tue Mar 11 16:02:58.863678 2025] [php:notice] [pid 19] [client 172.18.0.1:56352] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:02:58.998558 2025] [php:notice] [pid 19] [client 172.18.0.1:56352] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:03:07.590018 2025] [php:notice] [pid 24] [client 172.18.0.1:56336] Sou um log
+[Tue Mar 11 16:03:07.737210 2025] [php:notice] [pid 22] [client 172.18.0.1:53582] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:03:37.506825 2025] [php:notice] [pid 21] [client 172.18.0.1:60142] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:03:37.662971 2025] [php:notice] [pid 20] [client 172.18.0.1:60156] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:03:44.181953 2025] [php:notice] [pid 19] [client 172.18.0.1:60168] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:03:44.364960 2025] [php:notice] [pid 24] [client 172.18.0.1:60180] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:17.827356 2025] [php:notice] [pid 18] [client 172.18.0.1:33658] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:17.976097 2025] [php:notice] [pid 21] [client 172.18.0.1:33662] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:18.547500 2025] [php:notice] [pid 23] [client 172.18.0.1:33666] Sou um log
+[Tue Mar 11 16:11:18.697179 2025] [php:notice] [pid 22] [client 172.18.0.1:33692] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:19.692350 2025] [php:notice] [pid 23] [client 172.18.0.1:33666] Sou um log
+[Tue Mar 11 16:11:19.833235 2025] [php:notice] [pid 24] [client 172.18.0.1:33702] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:24.541022 2025] [php:notice] [pid 20] [client 172.18.0.1:33718] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:24.677554 2025] [php:notice] [pid 20] [client 172.18.0.1:33718] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:11:25.124544 2025] [php:notice] [pid 19] [client 172.18.0.1:33680] Sou um log
+[Tue Mar 11 16:11:25.281662 2025] [php:notice] [pid 20] [client 172.18.0.1:33718] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:12:17.762410 2025] [php:notice] [pid 21] [client 172.18.0.1:40382] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:13:06.386664 2025] [php:notice] [pid 22] [client 172.18.0.1:44266] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:13:15.953934 2025] [php:notice] [pid 24] [client 172.18.0.1:43928] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:13:21.347504 2025] [php:notice] [pid 23] [client 172.18.0.1:43936] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:14:07.653956 2025] [php:notice] [pid 19] [client 172.18.0.1:48630] Sou um log
+[Tue Mar 11 16:16:55.016721 2025] [php:notice] [pid 18] [client 172.18.0.1:53912] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:17:36.514304 2025] [php:notice] [pid 21] [client 172.18.0.1:48298] Sou um log
+[Tue Mar 11 16:17:36.679551 2025] [php:notice] [pid 22] [client 172.18.0.1:48304] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:17:36.878787 2025] [php:notice] [pid 22] [client 172.18.0.1:48304] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:17:37.040104 2025] [php:notice] [pid 22] [client 172.18.0.1:48304] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:17:37.183999 2025] [php:notice] [pid 22] [client 172.18.0.1:48304] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:18:28.973664 2025] [php:notice] [pid 19] [client 172.18.0.1:49880] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:21:12.020484 2025] [php:notice] [pid 20] [client 172.18.0.1:33272] Sou um log
+[Tue Mar 11 16:21:59.270042 2025] [php:notice] [pid 18] [client 172.18.0.1:33276] Sou um log
+[Tue Mar 11 16:23:14.210422 2025] [php:notice] [pid 22] [client 172.18.0.1:45058] Sou um log
+[Tue Mar 11 16:23:16.155482 2025] [php:notice] [pid 22] [client 172.18.0.1:45058] Sou um log
+[Tue Mar 11 16:26:35.578509 2025] [php:notice] [pid 23] [client 172.18.0.1:40806] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:26:53.121421 2025] [php:notice] [pid 19] [client 172.18.0.1:39966] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 16:26:53.280352 2025] [php:notice] [pid 19] [client 172.18.0.1:39966] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 17:14:59.940869 2025] [php:notice] [pid 20] [client 172.18.0.1:52950] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 17:15:46.729363 2025] [php:notice] [pid 18] [client 172.18.0.1:40826] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 17:16:03.263216 2025] [php:notice] [pid 21] [client 172.18.0.1:60824] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 17:16:08.690073 2025] [php:notice] [pid 22] [client 172.18.0.1:34572] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:10:30.717364 2025] [php:notice] [pid 24] [client 172.18.0.1:49764] Sou um log
+[Tue Mar 11 18:13:01.518371 2025] [php:notice] [pid 19] [client 172.18.0.1:42310] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:30:40.052396 2025] [php:notice] [pid 20] [client 172.18.0.1:34766] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:30:42.298899 2025] [php:notice] [pid 20] [client 172.18.0.1:34766] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:33:33.297129 2025] [php:notice] [pid 18] [client 172.18.0.1:47536] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:33:43.260253 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:43.406310 2025] [php:notice] [pid 22] [client 172.18.0.1:51680] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:33:43.455816 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:43.612147 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:43.756161 2025] [php:notice] [pid 22] [client 172.18.0.1:51680] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:33:43.772614 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:43.914439 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:44.051374 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:44.072678 2025] [php:notice] [pid 22] [client 172.18.0.1:51680] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:33:44.300348 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:44.450244 2025] [php:notice] [pid 22] [client 172.18.0.1:51680] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:33:44.481580 2025] [php:notice] [pid 21] [client 172.18.0.1:51666] Sou um log
+[Tue Mar 11 18:33:48.223930 2025] [php:notice] [pid 22] [client 172.18.0.1:51680] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:35.367225 2025] [php:notice] [pid 23] [client 172.18.0.1:45886] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:35.516446 2025] [php:notice] [pid 23] [client 172.18.0.1:45886] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:35.676658 2025] [php:notice] [pid 23] [client 172.18.0.1:45886] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:56.822409 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:56.978788 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:57.144356 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:57.290726 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:57.441838 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:57.614996 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:57.775804 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:57.984861 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:58.140658 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:58.306648 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:58.473728 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:58.649315 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:58.814764 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:58.965809 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:34:59.807725 2025] [php:notice] [pid 19] [client 172.18.0.1:60256] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:09.023978 2025] [php:notice] [pid 20] [client 172.18.0.1:48200] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:09.534079 2025] [php:notice] [pid 20] [client 172.18.0.1:48200] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:09.757964 2025] [php:notice] [pid 20] [client 172.18.0.1:48200] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:09.925116 2025] [php:notice] [pid 20] [client 172.18.0.1:48200] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:10.118208 2025] [php:notice] [pid 20] [client 172.18.0.1:48200] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:43.346669 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:46.139151 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:47.099414 2025] [php:notice] [pid 21] [client 172.18.0.1:49664] Sou um log
+[Tue Mar 11 18:35:47.240160 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:47.413403 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:47.611718 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:47.818253 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:47.987498 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:51.410117 2025] [php:notice] [pid 21] [client 172.18.0.1:49664] Sou um log
+[Tue Mar 11 18:35:51.566233 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:51.611097 2025] [php:notice] [pid 21] [client 172.18.0.1:49664] Sou um log
+[Tue Mar 11 18:35:51.720556 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:51.847806 2025] [php:notice] [pid 21] [client 172.18.0.1:49664] Sou um log
+[Tue Mar 11 18:35:52.006824 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:52.022145 2025] [php:notice] [pid 21] [client 172.18.0.1:49664] Sou um log
+[Tue Mar 11 18:35:52.210940 2025] [php:notice] [pid 21] [client 172.18.0.1:49664] Sou um log
+[Tue Mar 11 18:35:52.362570 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:52.516693 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:52.676209 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:52.823152 2025] [php:notice] [pid 18] [client 172.18.0.1:44380] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:52.972432 2025] [php:notice] [pid 24] [client 172.18.0.1:49676] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:53.134669 2025] [php:notice] [pid 24] [client 172.18.0.1:49676] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:53.283884 2025] [php:notice] [pid 24] [client 172.18.0.1:49676] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:53.444094 2025] [php:notice] [pid 24] [client 172.18.0.1:49676] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:35:53.588471 2025] [php:notice] [pid 24] [client 172.18.0.1:49676] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:04.829592 2025] [php:notice] [pid 23] [client 172.18.0.1:43870] Sou um log
+[Tue Mar 11 18:36:04.988900 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:05.151569 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:05.317837 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:05.464440 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:05.632946 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:05.794027 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:05.954832 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:06.112000 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:06.280144 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:10.054634 2025] [php:notice] [pid 20] [client 172.18.0.1:43880] Sou um log
+[Tue Mar 11 18:36:10.204825 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:10.355873 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:10.518810 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:10.671861 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:10.839814 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:11.001540 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:11.149220 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:11.311319 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:36:11.464663 2025] [php:notice] [pid 19] [client 172.18.0.1:43896] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:37:02.573040 2025] [php:notice] [pid 21] [client 172.18.0.1:45796] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:37:02.743832 2025] [php:notice] [pid 21] [client 172.18.0.1:45796] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:40.734470 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:40.905634 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:41.072691 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:41.243997 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:41.420749 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:41.619293 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:41.775550 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:41.950749 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:42.112915 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:42.304393 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:42.463330 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:42.638671 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:42.825940 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:43.017975 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:43.214540 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:43.409487 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:43.608625 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:43.779283 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:43.938869 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:44.094494 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:44.259863 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:44.431551 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:44.614035 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:44.771553 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:44.971987 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:45.157716 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:45.324504 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:45.503042 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:45.673401 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:45.862638 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:47.489852 2025] [php:notice] [pid 24] [client 172.18.0.1:47692] Sou um log
+[Tue Mar 11 18:38:47.649731 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:47.811575 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:47.984882 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:48.148735 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:48.303563 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:48.469183 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:48.622023 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:48.785804 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:48.959729 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:49.124877 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:38:49.286929 2025] [php:notice] [pid 18] [client 172.18.0.1:49030] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:39:10.282445 2025] [php:notice] [pid 23] [client 172.18.0.1:53490] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:39:36.193091 2025] [php:notice] [pid 20] [client 172.18.0.1:47704] Sou um log
+[Tue Mar 11 18:39:36.341435 2025] [php:notice] [pid 19] [client 172.18.0.1:40846] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:39:36.490295 2025] [php:notice] [pid 19] [client 172.18.0.1:40846] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:39:36.539242 2025] [php:notice] [pid 20] [client 172.18.0.1:47704] Sou um log
+[Tue Mar 11 18:40:00.048127 2025] [php:notice] [pid 22] [client 172.18.0.1:40830] Sou um log
+[Tue Mar 11 18:40:00.204573 2025] [php:notice] [pid 21] [client 172.18.0.1:58094] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:00.369491 2025] [php:notice] [pid 21] [client 172.18.0.1:58094] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:00.529190 2025] [php:notice] [pid 21] [client 172.18.0.1:58094] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:32.476442 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:32.655999 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:32.818850 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:33.000183 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:33.168099 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:33.333314 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:33.507048 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:33.686271 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:33.855885 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:34.009842 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:34.187210 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:34.342409 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:34.489903 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:34.656338 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:34.831691 2025] [php:notice] [pid 18] [client 172.18.0.1:55696] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:47.524227 2025] [php:notice] [pid 23] [client 172.18.0.1:49106] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:47.669348 2025] [php:notice] [pid 23] [client 172.18.0.1:49106] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:47.815534 2025] [php:notice] [pid 23] [client 172.18.0.1:49106] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:47.987389 2025] [php:notice] [pid 23] [client 172.18.0.1:49106] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:48.146479 2025] [php:notice] [pid 23] [client 172.18.0.1:49106] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:40:48.882268 2025] [php:notice] [pid 23] [client 172.18.0.1:49106] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 18:41:28.554608 2025] [php:notice] [pid 19] [client 172.18.0.1:43304] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:26:59.895978 2025] [php:notice] [pid 18] [client 172.18.0.1:38722] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:01.204801 2025] [php:notice] [pid 23] [client 172.18.0.1:38732] Sou um log
+[Tue Mar 11 19:27:01.355260 2025] [php:notice] [pid 18] [client 172.18.0.1:38722] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:01.508643 2025] [php:notice] [pid 18] [client 172.18.0.1:38722] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:01.670306 2025] [php:notice] [pid 18] [client 172.18.0.1:38722] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:53.460193 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:53.625194 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:53.770523 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:53.934659 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:54.086872 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:54.252501 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:27:54.422722 2025] [php:notice] [pid 22] [client 172.18.0.1:40300] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:52.181818 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:52.350664 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:52.523002 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:52.682658 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:52.855321 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:53.018122 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:53.201348 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:53.387341 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:53.552016 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:53.734609 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:53.913140 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:54.088178 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:54.261211 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:54.433659 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:54.597240 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:54.775721 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:54.946243 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:55.140005 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:55.296554 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:55.464555 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:55.637750 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:55.804142 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:55.976851 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:56.146954 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:56.310846 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:56.467782 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:56.643288 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:56.825864 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:56.995289 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:57.159296 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:57.338891 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:57.514695 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:57.688318 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:57.849407 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:35:58.020289 2025] [php:notice] [pid 19] [client 172.18.0.1:33078] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:42.846912 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.009779 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.170862 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.338010 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.489630 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.637695 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.792534 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:43.963512 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:44.126885 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:44.277141 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:44.448499 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:44.618565 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:44.771580 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:44.993952 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:45.167855 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:36:45.347711 2025] [php:notice] [pid 20] [client 172.18.0.1:54790] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 19:39:39.104865 2025] [php:notice] [pid 21] [client 172.18.0.1:45814] Sou um log
+[Tue Mar 11 19:51:09.716725 2025] [php:notice] [pid 24] [client 172.18.0.1:44320] Sou um log
+[Tue Mar 11 19:51:10.410342 2025] [php:notice] [pid 24] [client 172.18.0.1:44320] Sou um log
+[Tue Mar 11 19:56:37.451317 2025] [php:notice] [pid 18] [client 172.18.0.1:48416] Sou um log
+[Tue Mar 11 19:56:38.060577 2025] [php:notice] [pid 18] [client 172.18.0.1:48416] Sou um log
+[Tue Mar 11 19:56:38.681943 2025] [php:notice] [pid 18] [client 172.18.0.1:48416] Sou um log
+[Tue Mar 11 19:59:56.158359 2025] [php:notice] [pid 22] [client 172.18.0.1:35260] Sou um log
+[Tue Mar 11 19:59:56.571070 2025] [php:notice] [pid 22] [client 172.18.0.1:35260] Sou um log
+[Tue Mar 11 19:59:57.075478 2025] [php:notice] [pid 22] [client 172.18.0.1:35260] Sou um log
+[Tue Mar 11 20:07:15.487082 2025] [php:notice] [pid 20] [client 172.18.0.1:36156] Sou um log
+[Tue Mar 11 20:07:32.223267 2025] [php:notice] [pid 21] [client 172.18.0.1:36162] Sou um log
+[Tue Mar 11 20:14:46.987094 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:47.416983 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:47.685192 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:47.917769 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:48.112553 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:48.241633 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:48.405967 2025] [php:notice] [pid 18] [client 172.18.0.1:37750] Sou um log
+[Tue Mar 11 20:14:50.205987 2025] [php:notice] [pid 24] [client 172.18.0.1:37766] Sou um log, referer: http://127.0.0.1:5500/
+[Tue Mar 11 20:15:03.098471 2025] [php:notice] [pid 22] [client 172.18.0.1:37752] Sou um log
+[Tue Mar 11 20:15:28.346244 2025] [php:notice] [pid 19] [client 172.18.0.1:44302] Sou um log
+[Tue Mar 11 20:15:28.506762 2025] [php:notice] [pid 19] [client 172.18.0.1:44302] Sou um log
+[Tue Mar 11 20:15:28.676974 2025] [php:notice] [pid 19] [client 172.18.0.1:44302] Sou um log
+[Tue Mar 11 20:15:28.785401 2025] [php:notice] [pid 19] [client 172.18.0.1:44302] Sou um log
+[Tue Mar 11 20:15:28.953960 2025] [php:notice] [pid 19] [client 172.18.0.1:44302] Sou um log
+[Tue Mar 11 20:17:31.970673 2025] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully

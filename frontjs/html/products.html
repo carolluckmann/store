@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <script src="../js/products.js" defer></script>
+    <title>Products</title>
+  </head>
+  <body>
+    <header>
+      <div class="store">
+        <a href="./index.html" class="logo">Suite Store</a>
+      </div>
+      <div id="others">
+        <a href="./products.html">Products</a>
+        <a href="./categories.html">Categories</a>
+        <a href="./history.html">History</a>
+      </div>
+    </header>
+    <main>
+      <div id="side-1">
+        <div class="first-value">
+          <input
+            type="text"
+            id="product"
+            maxlength="30"
+            placeholder="Product"
+          />
+        </div>
+        <div class="other-value">
+          <input type="number" id="amount" placeholder="Amount (only integer value)" oninput="this.value = this.value.replace(/[^0-9-]/g, ''); this.value = this.value.replace(/(\..*)\-/g, '$1');"/>
+          <input
+            class="unit-price"
+            id="unitPrice"
+            type="number"
+            placeholder="Unit price ($)"
+          />
+          <select class="category" name="category" id="categorySelect">
+            <option value="" id="categoryOption" selected hidden>
+              Select category
+            </option>
+          </select>
+        </div>
+        <input
+          type="submit"
+          id="productButton"
+          class="add"
+          value="Add Product"
+        />
+      </div>
+      <div class="vl"></div>
+      <div id="side-2">
+        <table id="table">
+          <tr>
+            <th>Code</th>
+            <th>Product</th>
+            <th>Amount</th>
+            <th>Unit price</th>
+            <th>Category</th>
+          </tr>
+          <tr>
+            <td>001</td>
+            <td>Rice</td>
+            <td>10</td>
+            <td>$20.00</td>
+            <td>Food</td>
+          </tr>
+          <tr class="last">
+            <td>002</td>
+            <td>Beans</td>
+            <td>1</td>
+            <td>$9.00</td>
+            <td>Food</td>
+          </tr>
+          <td>
+            <button onclick="deleteProduct(0)" class="cancel">Delete</button>
+          </td>
+        </table>
+      </div>
+    </main>
+  </body>
+</html>
