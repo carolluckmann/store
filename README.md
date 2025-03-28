@@ -17,16 +17,6 @@ Todo script que você desenvolver ou itens que queira deixar disponível na base
 
 Para acessar o pgadmin você pode usar a url [localhost:8080](http://localhost:8080)
 
-email: root@root.com
-
-senha: root
-
-## Configurando o acesso
-1. Acesse o PGADMIN
-1. Expanda ``Servers``
-1. Expanda ``pgsql_desafio``
-1. Preencha a senha ``root``
-
 ## Executando comandos
 1. Acesse o PGADMIN
 1. Expanda ``Servers``
